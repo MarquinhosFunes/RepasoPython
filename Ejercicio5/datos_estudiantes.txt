@@ -1,0 +1,3 @@
+Juan Pérez,8.5
+María García,9.2
+Carlos López,7.8
